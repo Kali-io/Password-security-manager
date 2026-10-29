@@ -12,7 +12,7 @@ Menu Options & DSA Used
 6. Undo Last Change: Reverts your last action instantly using a Stack.
 7. Exit: Saves all your data to a text file using File Handling.
 
-Note: Site names and usernames should be one word (no spaces).
+Note: Site names and usernames should be one word (no spaces).When you select the Exit option, the program automatically creates a passwords.txt file (if it doesn't already exist) and saves all your entered data—such as site names, usernames, password hashes, and strength levels—right into it.
 
 Default Master Password: admin123 
 
