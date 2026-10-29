@@ -18,5 +18,5 @@ Default Master Password: admin123
 
 How to Run this code: 
 
-1. gcc password_manager-2.c
+1. gcc password_manager.c
 2. ./a.out(linux) or ./a.exe(window)
