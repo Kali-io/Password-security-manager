@@ -13,8 +13,10 @@ Menu Options & DSA Used
 7. Exit: Saves all your data to a text file using File Handling.
 
 Note: Site names and usernames should be one word (no spaces).
+
 Default Master Password: admin123 
 
-gcc password_manager-2.c
-./a.out (for linux)
-./a.exe (for window)
+How to Run this code: 
+
+1. gcc password_manager-2.c
+2. ./a.out(linux) or ./a.exe(window)
