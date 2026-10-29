@@ -412,6 +412,7 @@ void undoLast() {
 
 int main() {
     int choice;
+    printf("Default password : admin123\n\n");
 
     root = newNode();
 
