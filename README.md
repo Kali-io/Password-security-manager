@@ -11,13 +11,10 @@ Menu Options & DSA Used
 5. Delete Password: Removes unwanted entries from the system.
 6. Undo Last Change: Reverts your last action instantly using a Stack.
 7. Exit: Saves all your data to a text file using File Handling.
-Note: Site names and usernames should be one word (no spaces).
 
+Note: Site names and usernames should be one word (no spaces).
 Default Master Password: admin123 
 
-
 gcc password_manager-2.c
-
 ./a.out (for linux)
-
 ./a.exe (for window)
