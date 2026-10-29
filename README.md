@@ -17,4 +17,6 @@ Default Master Password: admin123
 
 gcc password_manager-2.c
 ./a.out (for linux)
+
+
 ./a.exe (for window)
